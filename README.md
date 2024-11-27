@@ -1,4 +1,11 @@
-## Hi there 👋
+# 👋 Hi there 
+My name is Oleg Zapara and I'm a software developer.
+
+# 🚀 Expertise
+
+# 💻 Tech stack
+
+# 🌐 Socials
 
 <!--
 **OlegZapara/OlegZapara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
