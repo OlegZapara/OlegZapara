@@ -1,5 +1,3 @@
-![Hi, I'm Oleg ♨️](banner.png)
-
 # 👋 About me
 Working with almost everything related to programming:
 * 🥇 Gold medal at GENIUS Olympiad in robotics category that took place in New York
